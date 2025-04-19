@@ -2,6 +2,8 @@
 
 A flexible Android TextView that can display text in multiple orientations: vertically (up-to-down or down-to-up) and horizontally (left-to-right or right-to-left).
 
+![directional_text_view](https://github.com/user-attachments/assets/5fafcf00-a857-43e7-a0e7-fd4ce1f34e7b)
+
 ## Features
 
 - Four text orientation options:
