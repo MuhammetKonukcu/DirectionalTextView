@@ -94,8 +94,9 @@ directionalText.setOrientation(DirectionalTextView.ORIENTATION_RIGHT_TO_LEFT)
 
 // Standard TextView methods still work
 directionalText.text = "New text content"
-directionalText.setTextColor(ContextCompat.getColor(context, R.color.purple_500))
+directionalText.setTextColor(Color.White)
 directionalText.textSize = 18f
+//
 ```
 
 ## Orientation Constants
